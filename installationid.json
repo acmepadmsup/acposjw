@@ -1273,5 +1273,17 @@
       "companyName":"Neet jewellers Ludhiana",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "SAJJ1":{
+      "padmBaseUrl":"http://192.168.1.46:1005",
+      "companyName":"Sai Jew, Junner",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "RJJW1":{
+      "padmBaseUrl":"http://192.168.1.49:1005",
+      "companyName":"Rajendra Jew Branch Kishanganj,Bihar",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
 }
