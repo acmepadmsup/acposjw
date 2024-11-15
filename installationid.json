@@ -1005,7 +1005,7 @@
       "isSkipOtp":true
    },
    "SDFN1":{
-      "padmBaseUrl":"http://192.168.1.150:1005",
+      "padmBaseUrl":"http://45.127.57.229:1005",
       "companyName":"Siddharth Fine",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
