@@ -1285,5 +1285,11 @@
       "companyName":"Rajendra Jew Branch Kishanganj,Bihar",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "SMJW1":{
+      "padmBaseUrl":"http://192.168.1.5:1005",
+      "companyName":"Shamal jewellers",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
 }
