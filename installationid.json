@@ -1291,5 +1291,11 @@
       "companyName":"Shamal jewellers",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
-   }
+   },
+   "SDFN2":{
+      "padmBaseUrl":"http://192.168.1.150:1005",
+      "companyName":"Siddharth Fine",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
 }
