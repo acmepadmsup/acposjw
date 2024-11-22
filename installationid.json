@@ -542,7 +542,7 @@
       "isSkipOtp":true
    },
    "SLJW1":{
-      "padmBaseUrl":"http://srialankar.com",
+      "padmBaseUrl":"https://srialankar.com:8443",
       "companyName":"SRI ALANKAR JEWELLERS & SONS",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
