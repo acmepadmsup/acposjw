@@ -1309,5 +1309,11 @@
       "companyName":"Surya jew",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "SHJS1":{
+      "padmBaseUrl":"http://192.168.1.200:1005",
+      "companyName":"Siddheshwar jew, savlaj",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
 }
