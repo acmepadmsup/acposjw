@@ -1339,5 +1339,11 @@
       "companyName":"Mahavir Jewellers Kalyan",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "MAJW1":{
+      "padmBaseUrl":"http://192.168.1.7:1005",
+      "companyName":"Maa Ambe jew",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
 }
