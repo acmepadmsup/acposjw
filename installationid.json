@@ -386,7 +386,7 @@
       "isSkipOtp":true
    },
    "KHM95":{
-      "padmBaseUrl":"https://kjb.acmepadm.com:8443",
+      "padmBaseUrl":"http://103.76.208.218:8080",
       "companyName":"KHIMJI-K.D. & SONS PVT. LTD.",
       "sProgramKey":"2018062928101995",
       "isSkipOtp":true
