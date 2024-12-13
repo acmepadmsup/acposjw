@@ -595,6 +595,12 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+   "KHM99":{
+      "padmBaseUrl":"https://kjb.acmepadm.com:8443",
+      "companyName":"KHIMJI-K.D. & SONS PVT. LTD.",
+      "sProgramKey":"2018062928101995",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
@@ -1351,5 +1357,5 @@
       "companyName":"New Jariwala Jewellers",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
-   }
+   },
 }
