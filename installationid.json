@@ -1357,5 +1357,17 @@
       "companyName":"New Jariwala Jewellers",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "DHRM1":{
+      "padmBaseUrl":"http://192.168.1.51:1005",
+      "companyName":"Dharmadhikari jew,Shrigonda",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "SJTJ1":{
+      "padmBaseUrl":"http://192.168.0.111:1005",
+      "companyName":"Shree jee jewellers, titwala",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
 }
