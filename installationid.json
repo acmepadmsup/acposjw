@@ -332,7 +332,7 @@
       "isSkipOtp":true
    },
    "AN8LW":{
-      "padmBaseUrl":"https://52.66.218.19:8443",
+      "padmBaseUrl":"https://antara.acmepadm.com:8443",
       "companyName":"ANTARA JEWELLERY",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
