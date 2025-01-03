@@ -1381,5 +1381,11 @@
       "companyName":"Daunam Jeweller",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "JDBP1":{
+      "padmBaseUrl":"http://192.168.1.20:1005",
+      "companyName":"Jagdamba jewellers, bavdhan pune",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
