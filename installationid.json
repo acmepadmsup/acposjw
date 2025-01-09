@@ -1387,5 +1387,11 @@
       "companyName":"Jagdamba jewellers, bavdhan pune",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "NNSA":{
+      "padmBaseUrl":"AcmeInfinity",
+      "companyName":"Ninad shah , Akkalkot",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
