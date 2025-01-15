@@ -1101,7 +1101,7 @@
       "isSkipOtp":true
    },
    "SHSA1":{
-      "padmBaseUrl":"http://192.168.1.113:1005",
+      "padmBaseUrl":"http://192.168.1.136:1005",
       "companyName":"Shivlal saraf",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
