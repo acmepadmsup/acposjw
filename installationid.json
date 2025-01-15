@@ -1005,7 +1005,7 @@
       "isSkipOtp":true
    },
    "SGJW1":{
-      "padmBaseUrl":"http://192.168.10.6:1005",
+      "padmBaseUrl":"http://172.27.10.11:1005",
       "companyName":"Shri Ganesh Jewellers",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
