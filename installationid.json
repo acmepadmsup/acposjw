@@ -625,6 +625,12 @@
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
+   "PJWT1":{
+      "padmBaseUrl":"http://172.16.0.75:8080",
+      "companyName":"PNG JW Test",
+      "sProgramKey":"1",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
