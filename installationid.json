@@ -1423,5 +1423,11 @@
       "companyName":"Ninad shah , Akkalkot",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "LXPH1":{
+      "padmBaseUrl":"http://192.168.10.36:1005",
+      "companyName":"Laxmi jew pachwad",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
