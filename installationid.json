@@ -1439,7 +1439,7 @@
    "PGJWA":{
       "padmBaseUrl":"https://uat2app.pngjpl.com:8443",
       "companyName":"PNG Jw acme",
-      "sProgramKey":"25438546789662978",
+      "sProgramKey":"1",
       "isSkipOtp":true
    }
 }
