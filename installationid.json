@@ -1441,5 +1441,11 @@
       "companyName":"PNG Jw acme",
       "sProgramKey":"1",
       "isSkipOtp":true
+   },
+   "JAPT1":{
+      "padmBaseUrl":"http://103.226.187.247:1005",
+      "companyName":"Jay alankar,patna",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
