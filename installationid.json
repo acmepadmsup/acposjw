@@ -1209,7 +1209,7 @@
       "isSkipOtp":true
    },
    "KRDI1":{
-      "padmBaseUrl":"http://192.168.1.201:1005",
+      "padmBaseUrl":"http://192.168.1.200:1005",
       "companyName":"Kisha Diamond",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
@@ -1427,6 +1427,12 @@
    "LXPH1":{
       "padmBaseUrl":"http://192.168.10.36:1005",
       "companyName":"Laxmi jew pachwad",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
+   },
+   "RBJS1":{
+      "padmBaseUrl":"http://192.168.1.50:1005",
+      "companyName":"R B Bhosale Jewellers Sangli",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
