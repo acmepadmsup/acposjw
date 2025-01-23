@@ -1436,9 +1436,9 @@
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
-   "RBJS1":{
-      "padmBaseUrl":"http://192.168.1.50:1005",
-      "companyName":"R B Bhosale Jewellers Sangli",
+   "PGJWA":{
+      "padmBaseUrl":"https://uat2app.pngjpl.com:8443",
+      "companyName":"PNG Jw acme",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    }
