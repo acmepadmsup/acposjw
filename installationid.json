@@ -1447,5 +1447,11 @@
       "companyName":"Jay alankar,patna",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "CDJD1":{
+      "padmBaseUrl":"http://192.168.1.23:1005",
+      "companyName":"Chaganlal dayalji, jamshedpur",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
