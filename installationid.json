@@ -1453,5 +1453,11 @@
       "companyName":"Chaganlal dayalji, jamshedpur",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "AKJS1":{
+      "padmBaseUrl":"http://192.168.1.126:1005",
+      "companyName":"A K Jewellers Shirpur",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
