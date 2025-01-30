@@ -1459,5 +1459,17 @@
       "companyName":"A K Jewellers Shirpur",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "VJJS1":{
+      "padmBaseUrl":"http://192.168.31.71:1005",
+      "companyName":"Vijay jew solapur",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
+   },
+   "MGJM1":{
+      "padmBaseUrl":"http://192.168.0.254:1005",
+      "companyName":"Mahesh gold Mumbai",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
