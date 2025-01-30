@@ -747,7 +747,7 @@
       "isSkipOtp":true
    },
    "BBJW1":{
-      "padmBaseUrl":"http://192.168.1.40:1005",
+      "padmBaseUrl":"http://192.168.1.43:1005",
       "companyName":"Bagde bandhu",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
@@ -963,7 +963,7 @@
       "isSkipOtp":true
    },
    "BBJW2":{
-      "padmBaseUrl":"http://192.168.1.40:1006",
+      "padmBaseUrl":"http://192.168.1.43:1006",
       "companyName":"Bagde bandhu",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
