@@ -1471,5 +1471,11 @@
       "companyName":"Mahesh gold Mumbai",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "REVAPNG":{
+      "padmBaseUrl":"https://revapadm.com:8551",
+      "companyName":"PNGS Reva Diamond Jewellery Limited",
+      "sProgramKey":"1",
+      "isSkipOtp":true
    }
 }
