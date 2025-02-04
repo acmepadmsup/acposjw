@@ -637,6 +637,12 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+   "REVAPNG":{
+      "padmBaseUrl":"https://revapadm.com:8551",
+      "companyName":"PNGS Reva Diamond Jewellery Limited",
+      "sProgramKey":"1",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
@@ -1029,7 +1035,7 @@
       "isSkipOtp":true
    },
    "SGMG1":{
-      "padmBaseUrl":"http://192.168.1.7:1005",
+      "padmBaseUrl":"http://122.166.248.186:1005",
       "companyName":"SGM gold",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
@@ -1470,12 +1476,6 @@
       "padmBaseUrl":"http://192.168.0.254:1005",
       "companyName":"Mahesh gold Mumbai",
       "sProgramKey":"25438546789662978",
-      "isSkipOtp":true
-   },
-   "REVAPNG":{
-      "padmBaseUrl":"https://revapadm.com:8551",
-      "companyName":"PNGS Reva Diamond Jewellery Limited",
-      "sProgramKey":"1",
       "isSkipOtp":true
    }
 }
