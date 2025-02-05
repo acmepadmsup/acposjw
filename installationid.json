@@ -602,7 +602,7 @@
       "isSkipOtp":true
    },
    "BHDR3":{
-      "padmBaseUrl":"http://122.165.68.35:8080",
+      "padmBaseUrl":"http://192.168.50.221:8080",
       "companyName":"BHIMA GOLD AND DIAMONDS",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
