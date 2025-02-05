@@ -325,6 +325,12 @@
       "sProgramKey":"1",
       "isSkipOtp":true
    },
+   "DPAJ2":{
+      "padmBaseUrl":"http://103.146.177.215:8080",
+      "companyName":"DP ABHUSHAN LTD",
+      "sProgramKey":"1",
+      "isSkipOtp":true
+   },
    "NAEX2":{
       "padmBaseUrl":"https://nac.acmepadm.com:8443",
       "companyName":"NAC_EX",
