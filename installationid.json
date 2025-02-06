@@ -624,13 +624,7 @@
       "companyName":"NEETA JEWELLERS",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
-   }, 
-   "NETJ2":{
-      "padmBaseUrl":"https://nj.acmepadm.com:8443",
-      "companyName":"NEETA JEWELLERS",
-      "sProgramKey":"25438546789662976",
-      "isSkipOtp":true
-   }, 
+   },
    "RNTJ1":{
       "padmBaseUrl":"https://rnt1.acmepadm.com:8443",
       "companyName":"Ratnatray jewellers",
@@ -1341,6 +1335,12 @@
       "isSkipOtp":true
    },
    "NTJW1":{
+      "padmBaseUrl":"http://192.168.1.236:1005",
+      "companyName":"Neet jewellers Ludhiana",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   NTJW2":{
       "padmBaseUrl":"http://192.168.1.236:1005",
       "companyName":"Neet jewellers Ludhiana",
       "sProgramKey":"25438546789662975",
