@@ -624,7 +624,13 @@
       "companyName":"NEETA JEWELLERS",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
-   },
+   }, 
+   "NETJ2":{
+      "padmBaseUrl":"https://nj.acmepadm.com:8443",
+      "companyName":"NEETA JEWELLERS",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   }, 
    "RNTJ1":{
       "padmBaseUrl":"https://rnt1.acmepadm.com:8443",
       "companyName":"Ratnatray jewellers",
