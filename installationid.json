@@ -620,7 +620,7 @@
       "isSkipOtp":true
    },
    "NETJ1":{
-      "padmBaseUrl":"http://198.38.86.229:8080",
+      "padmBaseUrl":"https://neeta.acmepadm.com:8443",
       "companyName":"NEETA JEWELLERS",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
