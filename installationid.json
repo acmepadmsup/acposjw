@@ -1495,5 +1495,11 @@
       "companyName":"Mahesh gold Mumbai",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "BGPJ1":{
+      "padmBaseUrl":"http://192.168.1.33:1005",
+      "companyName":"Balaji gold Palace, Amalner",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
