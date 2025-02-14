@@ -1,9 +1,9 @@
 {
    "Development urls":"Add Development Urls Here....",
    "1":{
-      "padmBaseUrl":"https://accounts.acmepadm.com:8443",
-      "companyName":"Nac22_23(Nac22_23)",
-      "sProgramKey":"254385467896629988",
+      "padmBaseUrl":"http://172.16.2.213:8080",
+      "companyName":"Nac23_24(Nac23_24)",
+      "sProgramKey":"25583484219165870",
       "isSkipOtp":true
    },
    "2":{
