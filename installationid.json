@@ -132,6 +132,12 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
+   "MADHU1":{
+      "padmBaseUrl":"http://192.168.10.222:1005",
+      "companyName":"AcmeSupport",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
    "Padm Pos Urls":"Add Padm Pos Urls Here....",
    "H6C4R":{
       "padmBaseUrl":"https://abhushan.acmepadm.com:8443",
