@@ -1161,7 +1161,7 @@
       "isSkipOtp":true
    },
    "DBSA1":{
-      "padmBaseUrl":"http://192.168.1.15:1005",
+      "padmBaseUrl":"http://192.168.1.33:1005",
       "companyName":"Dharamchand Bhavrilal Saraf",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
