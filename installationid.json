@@ -471,7 +471,13 @@
    },
    "MHRR1":{
       "padmBaseUrl":"http://103.93.98.120:8080",
-      "companyName":"MAHENDRA JEWELLERS",
+      "companyName":"MAHENDRA JEWELLERS,Rajarampuri",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
+   "MHRR2":{
+      "padmBaseUrl":"http://192.168.0.109:8080",
+      "companyName":"MAHENDRA JEWELLERS,Rajarampuri",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
