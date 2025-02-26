@@ -1519,5 +1519,11 @@
       "companyName":"Balaji gold Palace, Amalner",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "MTDJ1":{
+      "padmBaseUrl":"http://192.168.1.250:1005",
+      "companyName":"Manohar tukaram dhomne jew,Wardha",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
