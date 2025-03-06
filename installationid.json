@@ -1525,5 +1525,11 @@
       "companyName":"Manohar tukaram dhomne jew,Wardha",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
+   },
+   "OJBK1":{
+      "padmBaseUrl":"http://192.168.1.49:1005",
+      "companyName":"Om jew balinga,Kolhapur",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
    }
 }
