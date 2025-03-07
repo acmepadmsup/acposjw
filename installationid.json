@@ -362,7 +362,7 @@
       "isSkipOtp":true
    },
    "CN4RC":{
-      "padmBaseUrl":"http://10.1.0.37:8080",
+      "padmBaseUrl":"http://125.23.186.214:8080",
       "companyName":"CHANDUKAKA SARAF & SONS PVT. LTD.",
       "sProgramKey":"1",
       "isSkipOtp":true
@@ -1529,6 +1529,12 @@
    "OJBK1":{
       "padmBaseUrl":"http://192.168.1.49:1005",
       "companyName":"Om jew balinga,Kolhapur",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
+   },
+   "BBAS1":{
+      "padmBaseUrl":"http://192.168.0.50:1005",
+      "companyName":"Babar and sons",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    }
