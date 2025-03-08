@@ -1497,7 +1497,7 @@
       "isSkipOtp":true
    },
    "AKJS1":{
-      "padmBaseUrl":"http://192.168.1.123:1005",
+      "padmBaseUrl":"http://192.168.1.127:1005",
       "companyName":"A K Jewellers Shirpur",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
@@ -1544,4 +1544,5 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    }
+   
 }
