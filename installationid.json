@@ -1549,6 +1549,12 @@
       "companyName":"Vardhaman Jew,Maval",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+    "PKCB1":{
+      "padmBaseUrl":"http://192.168.0.250:1005",
+      "companyName":"Pannalal Kesharchand Bathiya",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
    
 }
