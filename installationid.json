@@ -691,6 +691,12 @@
       "sProgramKey":"2122",
       "isSkipOtp":true
    },
+   "CHMA3":{
+      "padmBaseUrl":"https://challani.acmepadm.com:8443",
+      "companyName":"Fedha",
+      "sProgramKey":"2123",
+      "isSkipOtp":true
+   },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
