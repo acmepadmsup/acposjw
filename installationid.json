@@ -697,6 +697,12 @@
       "sProgramKey":"2123",
       "isSkipOtp":true
    },
+    "JMCI1":{
+      "padmBaseUrl":"http://mcj.acmepadm.com",
+      "companyName":"JMC Indor",
+      "sProgramKey":"25438546789662980",
+      "isSkipOtp":true
+   },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
