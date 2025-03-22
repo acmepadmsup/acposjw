@@ -22,7 +22,7 @@
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
       "companyName":"ACME PADM POS DATA",
       "sProgramKey":"25438546789662976",
-      "isSkipOtp":false
+      "isSkipOtp":true
    },
    "5":{
       "padmBaseUrl":"http://172.16.2.102:8080",
