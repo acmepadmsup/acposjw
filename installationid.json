@@ -1576,7 +1576,7 @@
       "isSkipOtp":true
    },
    "BBAS1":{
-      "padmBaseUrl":"http://192.168.0.50:1005",
+      "padmBaseUrl":"http://192.168.0.6:1005",
       "companyName":"Babar and sons",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
