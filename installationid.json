@@ -215,7 +215,7 @@
       "padmBaseUrl":"https://nac.acmepadm.com:8443",
       "companyName":"NAC JEWELLERS",
       "sProgramKey":"25438546789662977",
-      "isSkipOtp":false
+      "isSkipOtp":true
    },
    "S65YW":{
       "padmBaseUrl":"https://narayandas.acmepadm.com:8443",
