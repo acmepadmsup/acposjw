@@ -1570,7 +1570,7 @@
       "isSkipOtp":true
    },
    "OJBK1":{
-      "padmBaseUrl":"http://192.168.1.49:1005",
+      "padmBaseUrl":"http://192.168.1.97:1005",
       "companyName":"Om jew balinga,Kolhapur",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
