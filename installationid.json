@@ -698,7 +698,7 @@
       "isSkipOtp":true
    },
    "SDHJ1":{
-      "padmBaseUrl":"https://sawlaj.acmepadm.com:8443",
+      "padmBaseUrl":"http://192.168.1.252:8080",
       "companyName":"SHRI SIDDHESHWAR JEWELLERS",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
