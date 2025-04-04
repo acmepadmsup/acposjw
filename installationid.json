@@ -260,7 +260,7 @@
       "isSkipOtp":true
    },
    "HFDK5":{
-      "padmBaseUrl":"https://verma.acmepadm.com:8443",
+      "padmBaseUrl":"http://117.242.44.152:8080",
       "companyName":"VERMA JEWELLERS",
       "sProgramKey":"11",
       "isSkipOtp":true
