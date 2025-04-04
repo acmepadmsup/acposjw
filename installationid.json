@@ -260,15 +260,15 @@
       "isSkipOtp":true
    },
    "HFDK5":{
-      "padmBaseUrl":"http://117.242.44.152:8080",
+      "padmBaseUrl":"https://verma.acmepadm.com:8443",
       "companyName":"VERMA JEWELLERS",
-      "sProgramKey":"11",
+      "sProgramKey":"254385466",
       "isSkipOtp":true
    },
-    "FS1PK":{
+   "FS1PK":{
       "padmBaseUrl":"http://192.168.10.110:8080",
       "companyName":"VERMA JEWELLERS",
-      "sProgramKey":"254385467",
+      "sProgramKey":"254385466",
       "isSkipOtp":true
    },
    "A1Y7M":{
