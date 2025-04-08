@@ -1604,6 +1604,12 @@
       "companyName":"Aditya Gold Hydrabad",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "VGDH2":{
+      "padmBaseUrl":"http://192.168.100.213:1005",
+      "companyName":"VISISTA GOLD AND DIAMOND HYDERABAD",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
    
 }
