@@ -1610,6 +1610,12 @@
       "companyName":"VISISTA GOLD AND DIAMOND HYDERABAD",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "VJUN1":{
+      "padmBaseUrl":"http://192.168.29.48:1005",
+      "companyName":"Vikas  jewellers ,umred nagpur",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
    
 }
