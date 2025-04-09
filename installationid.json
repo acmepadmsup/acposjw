@@ -1616,6 +1616,12 @@
       "companyName":"Vikas  jewellers ,umred nagpur",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "HEAD1":{
+      "padmBaseUrl":"http://192.168.0.200:1005",
+      "companyName":"Haraa Gold and Diamonds",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
    
 }
