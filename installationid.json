@@ -1319,7 +1319,7 @@
    },
    "VGDH1":{
       "padmBaseUrl":"http://192.168.1.160:1005",
-      "companyName":"VISISTA GOLD AND DIAMOND HYDERABAD",
+      "companyName":"VISISTA GOLD AND DIAMOND Jewellery HYDERABAD",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
@@ -1606,7 +1606,7 @@
       "isSkipOtp":true
    },
    "VGDH2":{
-      "padmBaseUrl":"http://192.168.100.213:1005",
+      "padmBaseUrl":"http://192.168.1.135:1005",
       "companyName":"VISISTA GOLD AND DIAMOND HYDERABAD",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
