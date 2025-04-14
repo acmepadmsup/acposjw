@@ -1622,6 +1622,12 @@
       "companyName":"Haraa Gold and Diamonds",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "SAJP1":{
+      "padmBaseUrl":"http://192.168.1.13:1005",
+      "companyName":"Sachin jewellers, pusegaon",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
    
 }
