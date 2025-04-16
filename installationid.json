@@ -138,6 +138,12 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
+   "INFILIVE":{
+      "padmBaseUrl":"https://net3.acmepadm.com:1005",
+      "companyName":"AcmeInfiLive",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
    "Padm Pos Urls":"Add Padm Pos Urls Here....",
    "H6C4R":{
       "padmBaseUrl":"https://abhushan.acmepadm.com:8443",
