@@ -97,7 +97,7 @@
       "isSkipOtp":true
    },
    "INFITEST":{
-      "padmBaseUrl":"http://172.16.2.191:1005",
+      "padmBaseUrl":"http://172.16.23.43:1005",
       "companyName":"AcmeInfiTest",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
@@ -679,12 +679,6 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
-   "MEJW1":{
-      "padmBaseUrl":"https://mld.acmepadm.com:8443",
-      "companyName":"MERALDA JEWELLERY",
-      "sProgramKey":"25438546789662977",
-      "isSkipOtp":true
-   },
    "CHMA1":{
       "padmBaseUrl":"https://challani.acmepadm.com:8443",
       "companyName":"CHALANI MART",
@@ -719,6 +713,24 @@
       "padmBaseUrl":"https://3.109.199.237:8443",
       "companyName":"Waman hari Pethe Jewellers",
       "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
+   },
+   "MLDJ1":{
+      "padmBaseUrl":"https://mld.acmepadm.com:8443",
+      "companyName":"MERALDA",
+      "sProgramKey":"1",
+      "isSkipOtp":true
+   }, 
+   "AURJ1":{
+      "padmBaseUrl":"https://mld.acmepadm.com:8443",
+      "companyName":"AUROXICA",
+      "sProgramKey":"2",
+      "isSkipOtp":true
+   },
+    "GEMJ1":{
+      "padmBaseUrl":"https://mld.acmepadm.com:8443",
+      "companyName":"GEMORA",
+      "sProgramKey":"3",
       "isSkipOtp":true
    },
    
@@ -1632,6 +1644,18 @@
    "SAJP1":{
       "padmBaseUrl":"http://192.168.1.13:1005",
       "companyName":"Sachin jewellers, pusegaon",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "SHGJ1":{
+      "padmBaseUrl":"http://192.168.1.50:1005",
+      "companyName":"Shagun Jewellers",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "KHEJ1":{
+      "padmBaseUrl":"http://192.168.1.124:1005",
+      "companyName":"Khedekar Jew",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    }
