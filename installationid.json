@@ -1664,6 +1664,12 @@
       "companyName":"Shree jew,nagpur",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+   },
+   "GSJH1":{
+      "padmBaseUrl":"http://190.168.29.73:1005",
+      "companyName":"Gokkulam signature jewellers, Hyderabad",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
    }
    
 }
