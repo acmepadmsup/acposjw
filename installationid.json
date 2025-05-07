@@ -1294,7 +1294,7 @@
       "isSkipOtp":true
    },
    "KNJW1":{
-      "padmBaseUrl":"http://192.168.1.250:1005",
+      "padmBaseUrl":"http://192.168.3.250:1005",
       "companyName":"kiran Jewellers",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
