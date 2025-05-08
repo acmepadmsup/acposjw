@@ -1017,6 +1017,12 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
+    "RAJN2":{
+      "padmBaseUrl":"http://139.5.238.110:1006",
+      "companyName":"Rajwant Jew",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
    "KANJ1":{
       "padmBaseUrl":"http://192.168.1.57:1005",
       "companyName":"Kanti jewellers pune",
