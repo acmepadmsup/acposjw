@@ -733,6 +733,12 @@
       "sProgramKey":"3",
       "isSkipOtp":true
    },
+   "ALKJ1":{
+      "padmBaseUrl":"https://alankar.acmepadm.com:8443",
+      "companyName":"Alankar",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
