@@ -49,9 +49,9 @@
       "isSkipOtp":true
    },
    "ACPADM":{
-      "padmBaseUrl":"https://acmedemo.acmepadm.com:9393",
-      "companyName":"Acme Infovision Systems",
-      "sProgramKey":"25438546789662978",
+      "padmBaseUrl":"https://vapt.acmepadm.com:8443",
+      "companyName":"ACME PADM DEMO DATA",
+      "sProgramKey":"25438546789662980",
       "isSkipOtp":true
    },
    "INFI1":{
