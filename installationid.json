@@ -1689,9 +1689,15 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-   "GSJH1":{
+   "KWJC1":{
       "padmBaseUrl":"http://192.168.15.21:1005",
       "companyName":"Kamthiwale jew, chindwara",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "GHSH1":{
+      "padmBaseUrl":"http://192.168.0.107:1005",
+      "companyName":"Ghanshyam jew, tumaar",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    }
