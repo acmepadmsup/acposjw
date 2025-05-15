@@ -698,7 +698,7 @@
       "isSkipOtp":true
    },
     "JMCI1":{
-      "padmBaseUrl":"http://mcj.acmepadm.com",
+      "padmBaseUrl":"https://jmc.acmepadm.com:8443",
       "companyName":"JMC Indor",
       "sProgramKey":"25438546789662980",
       "isSkipOtp":true
