@@ -644,7 +644,7 @@
       "isSkipOtp":true
    },
    "RNTJ1":{
-      "padmBaseUrl":"https://rnt1.acmepadm.com:8443",
+      "padmBaseUrl":"https://rnt.acmepadm.com:8443",
       "companyName":"Ratnatray jewellers",
       "sProgramKey":"25438546789662979",
       "isSkipOtp":true
