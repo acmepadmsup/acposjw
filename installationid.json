@@ -221,7 +221,7 @@
       "padmBaseUrl":"https://nac.acmepadm.com:8443",
       "companyName":"NAC JEWELLERS",
       "sProgramKey":"25438546789662977",
-      "isSkipOtp":true
+      "isSkipOtp":false
    },
    "S65YW":{
       "padmBaseUrl":"https://narayandas.acmepadm.com:8443",
@@ -347,7 +347,7 @@
       "padmBaseUrl":"https://nac.acmepadm.com:8443",
       "companyName":"NAC_EX",
       "sProgramKey":"25438546789662979",
-      "isSkipOtp":true
+      "isSkipOtp":false
    },
    "GL5AC":{
       "padmBaseUrl":"https://gla.acmepadm.com:8443",
@@ -407,7 +407,7 @@
       "padmBaseUrl":"https://nac.acmepadm.com:8443",
       "companyName":"NAC_TEST",
       "sProgramKey":"25438546789662978",
-      "isSkipOtp":true
+      "isSkipOtp":false
    },
    "PNJU1":{
       "padmBaseUrl":"https://appusa.pngjpl.com:8443",
