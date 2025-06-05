@@ -751,6 +751,12 @@
       "sProgramKey":"25583484219162630",
       "isSkipOtp":true
    },
+   "DPSR1":{
+      "padmBaseUrl":"https://dps.acmepadm.com:8443",
+      "companyName":"Dp Silver Ratlam",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
