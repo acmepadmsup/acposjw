@@ -1,9 +1,9 @@
 {
    "Development urls":"Add Development Urls Here....",
    "1":{
-      "padmBaseUrl":"http://172.16.2.102:8080",
-      "companyName":"Regression44(new)",
-      "sProgramKey":"9996",
+      "padmBaseUrl":"https://vapt.acmepadm.com:8443",
+      "companyName":"Demo Pos(VAPT)",
+      "sProgramKey":"25438546789662980",
       "isSkipOtp":true
    },
    "2":{
