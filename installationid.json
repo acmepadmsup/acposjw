@@ -756,6 +756,12 @@
       "companyName":"Dp Silver Ratlam",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
+   },  
+   "GLJW1":{
+      "padmBaseUrl":"https://glj.acmepadm.com:8443",
+      "companyName":"Shree Gajlaxmi Jewellers Pvt. Ltd.",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
    },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
