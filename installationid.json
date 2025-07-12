@@ -760,7 +760,25 @@
    "GLJW1":{
       "padmBaseUrl":"https://glj.acmepadm.com:8443",
       "companyName":"Shree Gajlaxmi Jewellers Pvt. Ltd.",
-      "sProgramKey":"25438546789662976",
+      "sProgramKey":"25438546789662977",
+      "isSkipOtp":true
+   },
+   "GLJW2":{
+      "padmBaseUrl":"https://glj.acmepadm.com:8443",
+      "companyName":"SHREE LAXMI JEWELLERS AND SONS",
+      "sProgramKey":"25438546789662979",
+      "isSkipOtp":true
+   },
+   "GLJW3":{
+      "padmBaseUrl":"https://glj.acmepadm.com:8443",
+      "companyName":"SHRI LAXMI JEWELLERS AND SONS PRIVATE LIMITED",
+      "sProgramKey":"25438546789662980",
+      "isSkipOtp":true
+   },
+   "GLJW4":{
+      "padmBaseUrl":"https://glj.acmepadm.com:8443",
+      "companyName":"GIRIRAJ JEWELLERS",
+      "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
    
