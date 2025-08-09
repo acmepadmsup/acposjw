@@ -781,6 +781,12 @@
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
+   "SJDP1":{
+      "padmBaseUrl":"https://jpearls.acmepadm.com:8443",
+      "companyName":"SRI JAGDAMBA PEARLS",
+      "sProgramKey":"25583484219162624",
+      "isSkipOtp":true
+   },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
