@@ -787,6 +787,24 @@
       "sProgramKey":"25583484219162624",
       "isSkipOtp":true
    },
+    "MDMR2":{
+      "padmBaseUrl":"http://122.165.122.81:8080",
+      "companyName":"MARTHANDAM (BJMDM)",
+      "sProgramKey":"25438546789662980",
+      "isSkipOtp":true
+   },
+   "SLMR2":{
+      "padmBaseUrl":"http://122.165.122.81:8080",
+      "companyName":"SALEM (BJSLM)",
+      "sProgramKey":"25438546789662979",
+      "isSkipOtp":true
+   },
+   "TVLR2":{
+      "padmBaseUrl":"http://122.165.122.81:8080",
+      "companyName":"TIRUNELVELI (BJTVL)",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
+   },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
