@@ -811,6 +811,12 @@
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
+   "GBNJ1":{
+      "padmBaseUrl":"https://gbn.acmepadm.com:8443",
+      "companyName":"GANGADHAR BALASHETH NASHIKKAR JEWELLERS",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
