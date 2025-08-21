@@ -335,7 +335,7 @@
       "padmBaseUrl":"https://pngspadm.com:8666",
       "companyName":"P.N.GADGIL & SONS LTD.",
       "sProgramKey":"1",
-      "isSkipOtp":true
+      "isSkipOtp":false
    },
    "DPAJ1":{
       "padmBaseUrl":"http://103.146.177.247:8080",
