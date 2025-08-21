@@ -374,7 +374,7 @@
       "isSkipOtp":true
    },
    "CN4RC":{
-      "padmBaseUrl":"http://125.23.186.214:8080",
+      "padmBaseUrl":"http://10.1.0.50:8080",
       "companyName":"CHANDUKAKA SARAF & SONS PVT. LTD.",
       "sProgramKey":"11",
       "isSkipOtp":true
