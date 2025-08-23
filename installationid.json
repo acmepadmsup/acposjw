@@ -332,7 +332,7 @@
       "isSkipOtp":true
    },
    "PGA56":{
-      "padmBaseUrl":"https://pngspadm.com:8666",
+      "padmBaseUrl":"https://pngspadm.com:8670",
       "companyName":"P.N.GADGIL & SONS LTD.",
       "sProgramKey":"1",
       "isSkipOtp":false
