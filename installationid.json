@@ -42,6 +42,18 @@
       "sProgramKey":"5003",
       "isSkipOtp":true
    },
+    "213":{
+      "padmBaseUrl":"http://172.16.2.213:8080",
+      "companyName":"Only For Pos",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
+   },
+    "2132":{
+      "padmBaseUrl":"http://172.16.2.213:8080",
+      "companyName":"Video4 (V)",
+      "sProgramKey":"5003",
+      "isSkipOtp":true
+   },
    "ACPOS":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
       "companyName":"ACME PADM POS DATA",
