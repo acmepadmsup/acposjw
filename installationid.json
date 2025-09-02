@@ -829,6 +829,12 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+    "CSPL1":{
+      "padmBaseUrl":"http://10.1.0.70:8080",
+      "companyName":"CHANDUKAKA SARAF PVT. LTD.",
+      "sProgramKey":"5",
+      "isSkipOtp":true
+   },
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
