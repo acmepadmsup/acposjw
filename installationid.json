@@ -347,13 +347,13 @@
       "padmBaseUrl":"http://103.146.177.247:8080",
       "companyName":"DP ABHUSHAN LTD",
       "sProgramKey":"1",
-      "isSkipOtp":true
+      "isSkipOtp":false
    },
    "DPAJ2":{
       "padmBaseUrl":"http://103.146.177.215:8080",
       "companyName":"DP ABHUSHAN LTD",
       "sProgramKey":"1",
-      "isSkipOtp":true
+      "isSkipOtp":false
    },
    "NAEX2":{
       "padmBaseUrl":"https://nac.acmepadm.com:8443",
