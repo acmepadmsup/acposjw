@@ -344,7 +344,7 @@
       "isSkipOtp":false
    },
    "DPAJ1":{
-      "padmBaseUrl":"http://103.146.177.247:8080",
+      "padmBaseUrl":"http://103.146.177.174:8080",
       "companyName":"DP ABHUSHAN LTD",
       "sProgramKey":"1",
       "isSkipOtp":false
