@@ -284,7 +284,7 @@
       "isSkipOtp":true
    },
    "HFDK5":{
-      "padmBaseUrl":"https://verma.acmepadm.com:8443",
+      "padmBaseUrl":"https://vjs.acmepadm.com:8443",
       "companyName":"VERMA JEWELLERS",
       "sProgramKey":"254385466",
       "isSkipOtp":true
