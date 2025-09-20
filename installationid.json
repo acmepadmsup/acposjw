@@ -1832,6 +1832,12 @@
     "companyName": "VND Jew,Partur dist Jalana",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+   "POKH1": {
+    "padmBaseUrl": "http://192.168.3.20:1005",
+    "companyName": "Pokharna",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
    
 }
