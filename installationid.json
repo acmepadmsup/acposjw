@@ -841,6 +841,31 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+    "BHGDR3":{
+      "padmBaseUrl":"http://192.168.50.221:8080",
+      "companyName":"Bhima Gold & Diamonds (BHM)",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
+    "BNGLR3":{
+      "padmBaseUrl":"http://192.168.50.221:8080",
+      "companyName":"Bhima Jewellery (Nagarcoil) (BHJWN)",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
+   },
+    "BVZGR3":{
+      "padmBaseUrl":"http://192.168.50.221:8080",
+      "companyName":"Bhima Jewellery(Visakhapatnam) (BJVZG)",
+      "sProgramKey":"25438546789662979",
+      "isSkipOtp":true
+   },
+    "BPTAR3":{
+      "padmBaseUrl":"http://192.168.50.221:8080",
+      "companyName":"BhimaJewellery(Pathanamthitta) (BHJPTM)",
+      "sProgramKey":"25438546789662980",
+      "isSkipOtp":true
+   },
+   
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
