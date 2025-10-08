@@ -344,7 +344,7 @@
       "isSkipOtp":true
    },
    "PGA56":{
-      "padmBaseUrl":"https://219.91.158.106:8670",
+      "padmBaseUrl":"http://219.91.158.106:8670",
       "companyName":"P.N.GADGIL & SONS LTD.",
       "sProgramKey":"1",
       "isSkipOtp":false
