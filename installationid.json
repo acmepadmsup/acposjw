@@ -524,7 +524,7 @@
       "isSkipOtp":true
    },
    "VPJW2":{
-      "padmBaseUrl":"https://vpj.acmepadm.com:8443",
+      "padmBaseUrl":"http://vpj.acmepadm.com:8443",
       "companyName":"Vipul Jewellers",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
