@@ -865,6 +865,12 @@
       "sProgramKey":"25438546789662980",
       "isSkipOtp":true
    },
+   "SSNJW":{
+      "padmBaseUrl":"https://ssn.acmepadm.com:8443",
+      "companyName":"S S Nagarkar Jewellers",
+      "sProgramKey":"25438546789662977",
+      "isSkipOtp":true
+   },
    
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
