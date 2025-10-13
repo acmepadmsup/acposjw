@@ -164,7 +164,7 @@
    },
    "Padm Pos Urls":"Add Padm Pos Urls Here....",
    "H6C4R":{
-      "padmBaseUrl":"http://103.145.50.48:8080",
+      "padmBaseUrl":"https://abhushan.acmepadm.com:8443",
       "companyName":"ABHUSHAN JEWELLERS",
       "sProgramKey":"12",
       "isSkipOtp":true
