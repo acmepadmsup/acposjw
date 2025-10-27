@@ -871,6 +871,12 @@
       "sProgramKey":"25438546789662977",
       "isSkipOtp":true
    },
+   "PDNJ1":{
+      "padmBaseUrl":"https://pednekar-app1.acmepadm.com:8443",
+      "companyName":"Pednekar Jewellers",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
    
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
