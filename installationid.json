@@ -54,6 +54,12 @@
       "sProgramKey":"87596314756692158896",
       "isSkipOtp":true
    },  
+    "10":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"Regression 46",
+      "sProgramKey":"9994",
+      "isSkipOtp":true
+   },  
    "ACPOS":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
       "companyName":"ACME PADM POS DATA",
