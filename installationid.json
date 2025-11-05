@@ -889,6 +889,12 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+   "WHPEC":{
+      "padmBaseUrl":"https://13.202.151.204:8443",
+      "companyName":"WHP Ecom",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
@@ -1903,6 +1909,12 @@
    "PRJW1": {
     "padmBaseUrl": "http://192.168.0.105:1005",
     "companyName": "Prajyot Jewellers,Wani",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
+  },
+   "JAGJ1": {
+    "padmBaseUrl": "http://192.168.1.100:1005",
+    "companyName": "Jagdale jew, jalgaon",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
   }
