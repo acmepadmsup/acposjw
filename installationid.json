@@ -890,7 +890,7 @@
       "isSkipOtp":true
    },
    "WHPEC":{
-      "padmBaseUrl":"https://13.202.151.204:8443",
+      "padmBaseUrl":"https://whpecom.acmepadm.com:8443",
       "companyName":"WHP Ecom",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
