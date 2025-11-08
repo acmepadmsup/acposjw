@@ -1923,6 +1923,12 @@
     "companyName": "shraddha jew satara",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+   "SRJS2": {
+    "padmBaseUrl": "http://192.168.1.3:1006",
+    "companyName": "shraddha jew satara",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
    
 }
