@@ -58,7 +58,7 @@
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Regression 48",
       "sProgramKey":"5005",
-      "isSkipOtp":true
+      "isSkipOtp":false
    },  
     "11":{
       "padmBaseUrl":"http://172.16.2.102:8080",
