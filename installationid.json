@@ -1935,6 +1935,18 @@
     "companyName": "shraddha jew satara",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+   "SDNH1": {
+    "padmBaseUrl": "http://192.168.1.110:1005",
+    "companyName": "Shree jii jewellers, dadar and nagar haveli ",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
+  },
+   "SDNH2": {
+    "padmBaseUrl": "http://103.5.104.31:1005",
+    "companyName": "Shree jii jewellers, dadar and nagar haveli ",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
    
 }
