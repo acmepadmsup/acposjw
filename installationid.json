@@ -1925,13 +1925,13 @@
     "isSkipOtp": true
   },
    "SRJS1": {
-    "padmBaseUrl": "http://192.168.10.95:1005",
+    "padmBaseUrl": "http://192.168.1.95:1005",
     "companyName": "shraddha jew satara",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
   },
    "SRJS2": {
-    "padmBaseUrl": "http://192.168.10.95:1006",
+    "padmBaseUrl": "http://192.168.1.95:1006",
     "companyName": "shraddha jew satara",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
