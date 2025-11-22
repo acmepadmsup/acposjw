@@ -1947,6 +1947,12 @@
     "companyName": "Shree jii jewellers, dadar and nagar haveli ",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+   "VDKJ1": {
+    "padmBaseUrl": "http://192.168.0.10:1005",
+    "companyName": "Vadnerkar Jewellers",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
    
 }
