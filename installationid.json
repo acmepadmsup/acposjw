@@ -780,6 +780,12 @@
       "companyName":"Sheelvant & Sons Jewels Private Limited",
       "sProgramKey":"25583484219162630",
       "isSkipOtp":true
+   }, 
+   "SHLVST":{
+      "padmBaseUrl":"https://ssj.acmepadm.com:8443",
+      "companyName":"Sheelvant & Sons Jewels Test",
+      "sProgramKey":"25583484219162633",
+      "isSkipOtp":true
    },
    "DPSR1":{
       "padmBaseUrl":"https://dps.acmepadm.com:8443",
