@@ -907,6 +907,12 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+   "SHLJP":{
+      "padmBaseUrl":"https://shlj.acmepadm.com:8443",
+      "companyName":"Shree Laxmi Jewellers",
+      "sProgramKey":"25438546789662979",
+      "isSkipOtp":true
+   },
    
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
