@@ -890,7 +890,7 @@
       "isSkipOtp":true
    },
    "PDNJ1":{
-      "padmBaseUrl":"https://pednekar-app1.acmepadm.com:8080",
+      "padmBaseUrl":"http://pednekar-app1.acmepadm.com:8080",
       "companyName":"Pednekar Jewellers",
       "sProgramKey":"10",
       "isSkipOtp":true
