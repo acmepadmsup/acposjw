@@ -1973,7 +1973,7 @@
     "isSkipOtp": true
   },
    "VDKJ1": {
-    "padmBaseUrl": "http://192.168.0.10:1006",
+    "padmBaseUrl": "http://192.168.0.134:1005",
     "companyName": "Vadnerkar Jewellers",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
