@@ -1983,6 +1983,12 @@
     "companyName": "Pushpraj Jewellers",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+   "PRAJW": {
+    "padmBaseUrl": "http://192.168.1.36:1005",
+    "companyName": "Pratha Jewellers, kalyan",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
    
 }
