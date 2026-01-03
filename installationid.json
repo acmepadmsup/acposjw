@@ -157,7 +157,7 @@
       "isSkipOtp":true
    },
    "INFI1NEW":{
-      "padmBaseUrl":"http://172.16.20.43:1005",
+      "padmBaseUrl":"http://172.16.2.188:1005",
       "companyName":"AcmeInfiTestFour",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
