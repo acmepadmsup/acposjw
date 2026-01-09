@@ -380,13 +380,13 @@
       "isSkipOtp":false
    },
    "DPAJ1":{
-      "padmBaseUrl":"http://103.146.177.174:8080",
+      "padmBaseUrl":"http://dp4.acmepadm.com:8181",
       "companyName":"DP ABHUSHAN LTD",
       "sProgramKey":"1",
       "isSkipOtp":false
    },
    "DPAJ2":{
-      "padmBaseUrl":"http://103.146.177.174:8080",
+      "padmBaseUrl":"http://dp4.acmepadm.com:8181",
       "companyName":"DP ABHUSHAN LTD",
       "sProgramKey":"1",
       "isSkipOtp":false
