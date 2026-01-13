@@ -386,7 +386,7 @@
       "isSkipOtp":false
    },
    "DPAJ3":{
-      "padmBaseUrl":"http://103.146.177.247:8080",
+      "padmBaseUrl":"http://dp4.acmepadm.com:8383",
       "companyName":"DP ABHUSHAN LTD",
       "sProgramKey":"1",
       "isSkipOtp":false
