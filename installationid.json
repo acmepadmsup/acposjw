@@ -65,7 +65,13 @@
       "companyName":"Regression 46",
       "sProgramKey":"9994",
       "isSkipOtp":true
-   },  
+   },
+   "45":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"Regression 45",
+      "sProgramKey":"9995",
+      "isSkipOtp":true
+   },
    "50":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Regression 50",
