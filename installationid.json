@@ -943,6 +943,18 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+     "SSDJGH":{
+      "padmBaseUrl":"http://192.168.1.124:8080",
+      "companyName":"SHUBH SANGAM DADDI JEWELLERS, GADHINGLAJ",
+      "sProgramKey":"1",
+      "isSkipOtp":true
+   },
+     "TLSJ1":{
+      "padmBaseUrl":"https://talwarsons.acmepadm.com:8443",
+      "companyName":"Talwarsons Jewllers",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    
    
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
