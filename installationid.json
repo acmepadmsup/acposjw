@@ -799,6 +799,12 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+    "ANMJ2":{
+      "padmBaseUrl":"http://3.7.181.238:8080",
+      "companyName":"Anmol Jewellers",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    "SHLVSJ":{
       "padmBaseUrl":"https://ssj.acmepadm.com:8443",
       "companyName":"Sheelvant & Sons Jewels Private Limited",
