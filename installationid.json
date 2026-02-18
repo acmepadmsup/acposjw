@@ -978,9 +978,13 @@
       "companyName":"Talwarsons Jewllers",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
+   }, 
+   "TLSJ2":{
+      "padmBaseUrl":"https://59.99.112.127:8443",
+      "companyName":"Talwarsons Jewllers",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
    },
-   
-   
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
