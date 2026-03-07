@@ -10,7 +10,7 @@
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Pos (onlyforposmembers)",
       "sProgramKey":"875963147566921705",
-      "isSkipOtp":true
+      "isSkipOtp":false
    },
    "3":{
       "padmBaseUrl":"http://172.16.2.102:8080",
