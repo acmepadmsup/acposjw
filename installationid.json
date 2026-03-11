@@ -212,9 +212,9 @@
       "isSkipOtp":true
    },
    "7CRD3":{
-      "padmBaseUrl":"http://at.acmepadm.com:8080",
+      "padmBaseUrl":"http://192.168.29.5:8080",
       "companyName":"AT JEWELLERS",
-      "sProgramKey":"20180503",
+      "sProgramKey":"25438546789662977",
       "isSkipOtp":true
    },
    "BBKK0":{
