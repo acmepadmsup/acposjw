@@ -2071,6 +2071,12 @@
     "companyName": "Eleve Diamonds(TTJ)",
     "sProgramKey": "25438546789662976",
     "isSkipOtp": true
+  },
+    "RTJEL": {
+    "padmBaseUrl": "https://rathod.acmepadm.com:8443",
+    "companyName": "Rathod Jewllers",
+    "sProgramKey": "25438546789662976",
+    "isSkipOtp": true
   }
    
 }
