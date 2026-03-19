@@ -884,7 +884,7 @@
       "isSkipOtp":true
    },
     "CSPL":{
-      "padmBaseUrl":"https://padm.chandukakasaraf.in:8081",
+      "padmBaseUrl":"http://padm.chandukakasaraf.in:8081",
       "companyName":"CHANDUKAKA SARAF PVT. LTD.",
       "sProgramKey":"5",
       "isSkipOtp":true
