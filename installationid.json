@@ -428,7 +428,7 @@
       "isSkipOtp":true
    },
    "CSSPL":{
-      "padmBaseUrl":"https://padm.chandukakasaraf.in:8080",
+      "padmBaseUrl":"http://padm.chandukakasaraf.in:8080",
       "companyName":"CHANDUKAKA SARAF & SONS PVT. LTD.",
       "sProgramKey":"11",
       "isSkipOtp":true
@@ -995,6 +995,18 @@
       "padmBaseUrl":"https://ldj.acmepadm.com:8443",
       "companyName":"Londe Jewellers",
       "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
+  "CSSPL1":{
+      "padmBaseUrl":"http://10.1.0.50:8080",
+      "companyName":"CHANDUKAKA SARAF & SONS PVT. LTD.",
+      "sProgramKey":"11",
+      "isSkipOtp":true
+   },
+   "CSPL1":{
+      "padmBaseUrl":"http://10.1.0.70:8080",
+      "companyName":"CHANDUKAKA SARAF PVT. LTD.",
+      "sProgramKey":"5",
       "isSkipOtp":true
    },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
