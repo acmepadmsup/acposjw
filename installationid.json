@@ -1009,6 +1009,12 @@
       "sProgramKey":"5",
       "isSkipOtp":true
    },
+   "PNKGPM":{
+      "padmBaseUrl":"https://fraapp.pngjl.com:8443",
+      "companyName":"KGPM Jewells LLP – Kolhapur",
+      "sProgramKey":"2",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
