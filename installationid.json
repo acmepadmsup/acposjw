@@ -1009,6 +1009,12 @@
       "sProgramKey":"2",
       "isSkipOtp":true
    },
+   "CSPLDM":{
+      "padmBaseUrl":"https://padmtest.chandukakasaraf.in:4334",
+      "companyName":"CHANDUKAKA SARAF & SONS PVT.LTD.DUMMY",
+      "sProgramKey":"15",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
