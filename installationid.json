@@ -6,12 +6,31 @@
       "sProgramKey":"2766",
       "isSkipOtp":true
    },
-   "2":{
-      "padmBaseUrl":"http://172.16.2.102:8080",
-      "companyName":"Pos (onlyforposmembers)",
-      "sProgramKey":"875963147566921705",
-      "isSkipOtp":false
-   },
+    "2": {
+        "padmBaseUrl": "http://172.16.2.102:8080",
+        "companyName": "Pos (onlyforposmembers)",
+        "sProgramKey": "875963147566921705",
+        "isSkipOtp": false,
+        "multiFirm": true,
+        "multiFirmData": [
+            {
+                "1": {
+                    "padmBaseUrl": "http://172.16.2.102:8080",
+                    "companyName": "VAPT POS NEW",
+                    "sProgramKey": "2766",
+                    "isSkipOtp": true
+                }
+            },
+            {
+                "4": {
+                    "padmBaseUrl": "https://pos.acmepadm.com:8443",
+                    "companyName": "ACME PADM POS DATA",
+                    "sProgramKey": "25438546789662977",
+                    "isSkipOtp": true
+                }
+            }
+        ]
+    },
    "3":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Video Testing",
