@@ -19,11 +19,11 @@
                     "sProgramKey": "2766",
                     "isSkipOtp": true
                 },
-                "4": {
-                    "padmBaseUrl": "https://pos.acmepadm.com:8443",
-                    "companyName": "ACME PADM POS DATA",
-                    "sProgramKey": "25438546789662977",
-                    "isSkipOtp": true
+                "11":{
+                   "padmBaseUrl":"http://172.16.2.102:8080",
+                   "companyName":"Regression 46",
+                   "sProgramKey":"9994",
+                   "isSkipOtp":true
                 }
         }
     },
