@@ -81,6 +81,12 @@
       "sProgramKey":"9994",
       "isSkipOtp":true
    },
+    "12": {
+         "padmBaseUrl": "http://172.16.2.31:8080",
+         "companyName": "VAPT POS NEW",
+         "sProgramKey": "2766",
+         "isSkipOtp": true
+   },
    "45":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Regression 45",
