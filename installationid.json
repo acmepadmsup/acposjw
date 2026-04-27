@@ -1048,6 +1048,12 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+   "SWJEL":{
+      "padmBaseUrl":"http://13.235.140.197:8080",
+      "companyName":"SAWANSUKHA JEWELLERS",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
