@@ -14,13 +14,13 @@
         "multiFirm": true,
         "multiFirmData": {
                 "1": {
-                    "padmBaseUrl": "http://172.16.2.31:8080",
+                    "padmBaseUrl": "http://172.16.2.27:8080",
                     "companyName": "VAPT POS NEW",
                     "sProgramKey": "2766",
                     "isSkipOtp": true
                 },
                 "11":{
-                   "padmBaseUrl":"http://172.16.2.31:8080",
+                   "padmBaseUrl":"http://172.16.2.27:8080",
                    "companyName":"Regression 46",
                    "sProgramKey":"9994",
                    "isSkipOtp":true
