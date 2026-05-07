@@ -1117,6 +1117,12 @@
    			}
         }
    },
+	"JAIAL":{
+      "padmBaseUrl":"https://jaialankar.acmepadm.com",
+      "companyName":"Jaialankar Jewellers Patna (Bihar)",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
