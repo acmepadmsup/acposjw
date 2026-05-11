@@ -99,6 +99,12 @@
       "sProgramKey":"50414",
       "isSkipOtp":true
    },
+   "anmol102":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"Anmol Local 102",
+      "sProgramKey":"004",
+      "isSkipOtp":true
+   },
    "ACPOS":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
       "companyName":"ACME PADM POS DATA",
