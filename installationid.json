@@ -82,7 +82,7 @@
       "isSkipOtp":true
    },
     "12": {
-         "padmBaseUrl": "http://172.16.2.31:8080",
+         "padmBaseUrl": "http://172.16.2.102:8080",
          "companyName": "VAPT POS NEW",
          "sProgramKey": "2766",
          "isSkipOtp": true
