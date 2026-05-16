@@ -11,7 +11,7 @@
         "companyName": "Pos (onlyforposmembers)",
         "sProgramKey": "875963147566921705",
         "isSkipOtp": false,
-        "multiFirm": true,
+        "multiFirm": false,
         "multiFirmData": {
                 "1": {
                     "padmBaseUrl": "http://172.16.2.27:8080",
