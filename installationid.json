@@ -110,6 +110,12 @@
       "companyName":"SAWANSUKHA JEWELLERS PVT. LTD (LOCAL 53)",
       "sProgramKey":"14052026",
       "isSkipOtp":true
+   },
+	"52":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"VAPT NEW LOCAL 63",
+      "sProgramKey":"8759631475669216926",
+      "isSkipOtp":true
    },	
    "ACPOS":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
