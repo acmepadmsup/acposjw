@@ -55,12 +55,12 @@
       			  "sProgramKey": "25438546789662976",
       			  "isSkipOtp": false
    					 },
-                "11":{
-                   "padmBaseUrl":"http://172.16.2.27:8080",
-                   "companyName":"Regression 46",
-                   "sProgramKey":"8759631475669216920",
-                   "isSkipOtp":true
-                }
+               "anmol102":{
+     			 "padmBaseUrl":"http://172.16.2.102:8080",
+     			 "companyName":"Anmol Local 102",
+      			 "sProgramKey":"202077",
+     			 "isSkipOtp":true
+ 				  },
         }
    },  
    "9":{
