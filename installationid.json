@@ -49,12 +49,12 @@
       "isSkipOtp":true,
 	  "multiFirm": true,
       "multiFirmData": {
-                "1": {
-                    "padmBaseUrl": "http://172.16.2.27:8080",
-                    "companyName": "VAPT POS NEW",
-                    "sProgramKey": "8759631475669216926",
-                    "isSkipOtp": true
-                },
+               "2": {
+       			 "padmBaseUrl": "http://172.16.2.102:8080",
+      			  "companyName": "Pos (onlyforposmembers)",
+      			  "sProgramKey": "25438546789662976",
+      			  "isSkipOtp": false
+   					 },
                 "11":{
                    "padmBaseUrl":"http://172.16.2.27:8080",
                    "companyName":"Regression 46",
