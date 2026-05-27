@@ -116,7 +116,13 @@
       "companyName":"VAPT NEW LOCAL 63",
       "sProgramKey":"8759631475669216926",
       "isSkipOtp":true
-   },	
+   },
+	"53":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"Verma LOCAL 63",
+      "sProgramKey":"8181",
+      "isSkipOtp":true
+   },
    "ACPOS":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
       "companyName":"ACME PADM POS DATA",
