@@ -50,13 +50,13 @@
 	  "multiFirm": true,
       "multiFirmData": {
                "2": {
-       			 "padmBaseUrl": "http://172.16.2.27:8080",
+       			 "padmBaseUrl": "http://172.16.2.102:8080",
       			  "companyName": "Pos (onlyforposmembers)",
       			  "sProgramKey": "25438546789662976",
       			  "isSkipOtp": false
    					 },
                "anmol102":{
-     			 "padmBaseUrl":"http://172.16.2.27:8080",
+     			 "padmBaseUrl":"http://172.16.2.102:8080",
      			 "companyName":"Anmol Local 102",
       			 "sProgramKey":"202077",
      			 "isSkipOtp":true
