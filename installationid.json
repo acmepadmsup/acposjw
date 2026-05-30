@@ -49,16 +49,16 @@
       "isSkipOtp":true,
 	  "multiFirm": true,
       "multiFirmData": {
-               "2": {
+               "45": {
        			 "padmBaseUrl": "http://172.16.2.102:8080",
-      			  "companyName": "Pos (onlyforposmembers)",
-      			  "sProgramKey": "25438546789662976",
+      			  "companyName": "Regression 45",
+      			  "sProgramKey": "8759631475669216917",
       			  "isSkipOtp": false
    					 },
-               "anmol102":{
+               "nac131":{
      			 "padmBaseUrl":"http://172.16.2.102:8080",
-     			 "companyName":"Anmol Local 102",
-      			 "sProgramKey":"202077",
+     			 "companyName":"Nac 131",
+      			 "sProgramKey":"25583484219165870",
      			 "isSkipOtp":true
  				  }
         }
