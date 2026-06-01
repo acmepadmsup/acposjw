@@ -64,7 +64,7 @@
         }
    },  
    "9":{
-      "padmBaseUrl":"http://172.16.2.213:8080",
+      "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Png 247 snapshot",
       "sProgramKey":"87596314756692158896",
       "isSkipOtp":true
