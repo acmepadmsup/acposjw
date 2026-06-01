@@ -123,6 +123,12 @@
       "sProgramKey":"8181",
       "isSkipOtp":true
    },
+	"nac131":{
+     	"padmBaseUrl":"http://172.16.2.102:8080",
+     	"companyName":"Nac 131",
+      	"sProgramKey":"25583484219165870",
+     	"isSkipOtp":true
+ 	},
    "ACPOS":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
       "companyName":"ACME PADM POS DATA",
