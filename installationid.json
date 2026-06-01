@@ -16,7 +16,22 @@
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Video Testing",
       "sProgramKey":"8759631475669216878",
-      "isSkipOtp":true
+      "isSkipOtp":true,
+      "multiFirm": true,
+       "multiFirmData": {
+      		  "8":{
+     			 "padmBaseUrl":"http://172.16.2.102:8080",
+     			 "companyName":"Challani Test 63",
+    			  "sProgramKey":"190526",
+    			  "isSkipOtp":true
+    			  },
+     		 "2": {
+      			  "padmBaseUrl": "http://172.16.2.102:8080",
+       			 "companyName": "Pos (onlyforposmembers)",
+       			 "sProgramKey": "25438546789662976",
+       			 "isSkipOtp": false
+   			 }
+       }
    },
    "4":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
