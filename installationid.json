@@ -355,13 +355,13 @@
    "CZ77T":{
       "padmBaseUrl":"http://192.168.1.236:8080",
       "companyName":"PUNJABI SARAF",
-      "sProgramKey":"1",
+      "sProgramKey":"61",
       "isSkipOtp":true
    },
    "JCP0S":{
       "padmBaseUrl":"http://122.168.194.75:3310",
       "companyName":"PUNJABI SARAF",
-      "sProgramKey":"1",
+      "sProgramKey":"61",
       "isSkipOtp":true
    },
    "5GT9X":{
