@@ -6,32 +6,32 @@
       "sProgramKey":"8759631475669216926",
       "isSkipOtp":true
    },
-    "2": {
-        "padmBaseUrl": "http://172.16.2.102:8080",
-        "companyName": "Pos (onlyforposmembers)",
-        "sProgramKey": "25438546789662976",
-        "isSkipOtp": false
-    },
+   "2":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"Pos (onlyforposmembers)",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":false
+   },
    "3":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Video Testing",
       "sProgramKey":"8759631475669216878",
       "isSkipOtp":true,
-      "multiFirm": true,
-       "multiFirmData": {
-      		  "8":{
-     			 "padmBaseUrl":"http://172.16.2.102:8080",
-     			 "companyName":"Challani Test 63",
-    			  "sProgramKey":"190526",
-    			  "isSkipOtp":true
-    			  },
-     		  "45":{
-     			 "padmBaseUrl":"http://172.16.2.102:8080",
-     			 "companyName":"Regression 45",
-     			 "sProgramKey":"8759631475669216917",
-    			  "isSkipOtp":true
- 				  }
-       }
+      "multiFirm":true,
+      "multiFirmData":{
+         "8":{
+            "padmBaseUrl":"http://172.16.2.102:8080",
+            "companyName":"Challani Test 63",
+            "sProgramKey":"190526",
+            "isSkipOtp":true
+         },
+         "45":{
+            "padmBaseUrl":"http://172.16.2.102:8080",
+            "companyName":"Regression 45",
+            "sProgramKey":"8759631475669216917",
+            "isSkipOtp":true
+         }
+      }
    },
    "4":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
@@ -62,45 +62,45 @@
       "companyName":"Challani Test 63",
       "sProgramKey":"190526",
       "isSkipOtp":true,
-	  "multiFirm": true,
-      "multiFirmData": {
-               "3": {
-       			 "padmBaseUrl": "http://172.16.2.102:8080",
-      			  "companyName": "Video Testing",
-      			  "sProgramKey": "8759631475669216878",
-      			  "isSkipOtp": false
-   					 },
-               "nac131":{
-     			 "padmBaseUrl":"http://172.16.2.102:8080",
-     			 "companyName":"Nac 131",
-      			 "sProgramKey":"25583484219165870",
-     			 "isSkipOtp":true
- 				  }
-        }
-   },  
+      "multiFirm":true,
+      "multiFirmData":{
+         "3":{
+            "padmBaseUrl":"http://172.16.2.102:8080",
+            "companyName":"Video Testing",
+            "sProgramKey":"8759631475669216878",
+            "isSkipOtp":false
+         },
+         "nac131":{
+            "padmBaseUrl":"http://172.16.2.102:8080",
+            "companyName":"Nac 131",
+            "sProgramKey":"25583484219165870",
+            "isSkipOtp":true
+         }
+      }
+   },
    "9":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Png 247 snapshot",
       "sProgramKey":"87596314756692158896",
       "isSkipOtp":true
-   },  
-    "10":{
+   },
+   "10":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Regression 48",
       "sProgramKey":"5005",
       "isSkipOtp":false
-   },  
-    "11":{
+   },
+   "11":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Regression 46",
       "sProgramKey":"9994",
       "isSkipOtp":true
    },
-    "12": {
-         "padmBaseUrl": "http://172.16.2.102:8080",
-         "companyName": "VAPT POS NEW",
-         "sProgramKey": "2766",
-         "isSkipOtp": true
+   "12":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"VAPT POS NEW",
+      "sProgramKey":"2766",
+      "isSkipOtp":true
    },
    "45":{
       "padmBaseUrl":"http://172.16.2.102:8080",
@@ -120,30 +120,30 @@
       "sProgramKey":"202077",
       "isSkipOtp":true
    },
-	"51":{
+   "51":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"SAWANSUKHA JEWELLERS PVT. LTD (LOCAL 53)",
       "sProgramKey":"14052026",
       "isSkipOtp":true
    },
-	"52":{
+   "52":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"VAPT NEW LOCAL 63",
       "sProgramKey":"8759631475669216926",
       "isSkipOtp":true
    },
-	"53":{
+   "53":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Verma LOCAL 63",
       "sProgramKey":"8181",
       "isSkipOtp":true
    },
-	"nac131":{
-     	"padmBaseUrl":"http://172.16.2.102:8080",
-     	"companyName":"Nac 131",
-      	"sProgramKey":"25583484219165870",
-     	"isSkipOtp":true
- 	},
+   "nac131":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"Nac 131",
+      "sProgramKey":"25583484219165870",
+      "isSkipOtp":true
+   },
    "ACPOS":{
       "padmBaseUrl":"https://pos.acmepadm.com:8443",
       "companyName":"ACME PADM POS DATA",
@@ -252,19 +252,19 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-     "INFILIVE1":{
+   "INFILIVE1":{
       "padmBaseUrl":"http://94.136.186.198:1005",
       "companyName":"AcmeInfiLive",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-     "13529":{
+   "13529":{
       "padmBaseUrl":"http://192.168.1.133",
       "companyName":"Klinkara jew(hydrabad)",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-    "DPJT1":{
+   "DPJT1":{
       "padmBaseUrl":"https://dpj.acmepadm.com",
       "companyName":"DPJ Test",
       "sProgramKey":"1",
@@ -511,7 +511,7 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-    "BB192":{
+   "BB192":{
       "padmBaseUrl":"http://192.168.10.234:8080",
       "companyName":"B B BANTHIA JEWELLESR LLP",
       "sProgramKey":"25438546789662975",
@@ -829,7 +829,7 @@
       "sProgramKey":"2123",
       "isSkipOtp":true
    },
-    "JMCI1":{
+   "JMCI1":{
       "padmBaseUrl":"https://jmc.acmepadm.com:8443",
       "companyName":"JMC Indor",
       "sProgramKey":"25438546789662980",
@@ -852,14 +852,14 @@
       "companyName":"MERALDA",
       "sProgramKey":"1",
       "isSkipOtp":true
-   }, 
+   },
    "AURJ1":{
       "padmBaseUrl":"https://mld.acmepadm.com:8443",
       "companyName":"AUROXICA",
       "sProgramKey":"2",
       "isSkipOtp":true
    },
-    "GEMJ1":{
+   "GEMJ1":{
       "padmBaseUrl":"https://mld.acmepadm.com:8443",
       "companyName":"GEMORA",
       "sProgramKey":"3",
@@ -877,7 +877,7 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
-    "ANMJ2":{
+   "ANMJ2":{
       "padmBaseUrl":"http://3.7.181.238:8080",
       "companyName":"Anmol Jewellers",
       "sProgramKey":"25438546789662976",
@@ -888,7 +888,7 @@
       "companyName":"Sheelvant & Sons Jewels Private Limited",
       "sProgramKey":"25583484219162630",
       "isSkipOtp":true
-   }, 
+   },
    "SHLVST":{
       "padmBaseUrl":"https://ssj.acmepadm.com:8443",
       "companyName":"Sheelvant & Sons Jewels Test",
@@ -900,7 +900,7 @@
       "companyName":"Dp Silver Ratlam",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
-   },  
+   },
    "GLJW1":{
       "padmBaseUrl":"https://glj.acmepadm.com:8443",
       "companyName":"Shree Gajlaxmi Jewellers Pvt. Ltd.",
@@ -931,7 +931,7 @@
       "sProgramKey":"25583484219162624",
       "isSkipOtp":true
    },
-    "MDMR2":{
+   "MDMR2":{
       "padmBaseUrl":"http://122.165.122.81:8080",
       "companyName":"MARTHANDAM (BJMDM)",
       "sProgramKey":"25438546789662980",
@@ -955,7 +955,7 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
-    "CSPL":{
+   "CSPL":{
       "padmBaseUrl":"http://padm.chandukakasaraf.in:8081",
       "companyName":"CHANDUKAKA SARAF PVT. LTD.",
       "sProgramKey":"5",
@@ -967,25 +967,25 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
-    "BHGDR3":{
+   "BHGDR3":{
       "padmBaseUrl":"http://192.168.50.221:8080",
       "companyName":"Bhima Gold & Diamonds (BHM)",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
-    "BNGLR3":{
+   "BNGLR3":{
       "padmBaseUrl":"http://192.168.50.221:8080",
       "companyName":"Bhima Jewellery (Nagarcoil) (BHJWN)",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
-    "BVZGR3":{
+   "BVZGR3":{
       "padmBaseUrl":"http://192.168.50.221:8080",
       "companyName":"Bhima Jewellery(Visakhapatnam) (BJVZG)",
       "sProgramKey":"25438546789662979",
       "isSkipOtp":true
    },
-    "BPTAR3":{
+   "BPTAR3":{
       "padmBaseUrl":"http://192.168.50.221:8080",
       "companyName":"BhimaJewellery(Pathanamthitta) (BHJPTM)",
       "sProgramKey":"25438546789662980",
@@ -1003,13 +1003,13 @@
       "sProgramKey":"30",
       "isSkipOtp":true
    },
-    "PDNJKB":{
+   "PDNJKB":{
       "padmBaseUrl":"https://pednekar-app1.acmepadm.com:8443",
       "companyName":"Pednekar Jewellers",
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
-    "PDNJRR":{
+   "PDNJRR":{
       "padmBaseUrl":"https://pednekar-app1.acmepadm.com:8443",
       "companyName":"Pednekar Jewellers",
       "sProgramKey":"25438546789662976",
@@ -1039,18 +1039,18 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
-     "SSDJGH":{
+   "SSDJGH":{
       "padmBaseUrl":"http://192.168.1.124:8080",
       "companyName":"SHUBH SANGAM DADDI JEWELLERS, GADHINGLAJ",
       "sProgramKey":"1",
       "isSkipOtp":true
    },
-     "TLSJ1":{
+   "TLSJ1":{
       "padmBaseUrl":"https://talwarsons.acmepadm.com:8443",
       "companyName":"Talwarsons Jewllers",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
-   }, 
+   },
    "MKJW1":{
       "padmBaseUrl":"https://manikchand.acmepadm.com:8443",
       "companyName":"Manikchand Jewllers",
@@ -1063,7 +1063,7 @@
       "sProgramKey":"25438546789662978",
       "isSkipOtp":true
    },
-  "CSSPL1":{
+   "CSSPL1":{
       "padmBaseUrl":"http://10.1.0.50:8080",
       "companyName":"CHANDUKAKA SARAF & SONS PVT. LTD.",
       "sProgramKey":"11",
@@ -1099,73 +1099,79 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
-    "CHALANI":{
+   "CHALANI":{
       "padmBaseUrl":"https://challani.acmepadm.com:8443",
       "companyName":"CHALANI MART",
       "sProgramKey":"2121",
       "isSkipOtp":true,
-	   "multiFirm": true,
-        "multiFirmData": {
-               "Lille":{
-               "padmBaseUrl":"https://challani.acmepadm.com:8443",
-               "companyName":"Lille",
-               "sProgramKey":"2122",
-               "isSkipOtp":true
-               },
-               "Fedha":{
-                  "padmBaseUrl":"https://challani.acmepadm.com:8443",
-                  "companyName":"Fedha",
-                  "sProgramKey":"2123",
-                  "isSkipOtp":true
-               }
-        }
+      "multiFirm":true,
+      "multiFirmData":{
+         "Lille":{
+            "padmBaseUrl":"https://challani.acmepadm.com:8443",
+            "companyName":"Lille",
+            "sProgramKey":"2122",
+            "isSkipOtp":true
+         },
+         "Fedha":{
+            "padmBaseUrl":"https://challani.acmepadm.com:8443",
+            "companyName":"Fedha",
+            "sProgramKey":"2123",
+            "isSkipOtp":true
+         }
+      }
    },
    "Lille":{
       "padmBaseUrl":"https://challani.acmepadm.com:8443",
       "companyName":"Lille",
       "sProgramKey":"2122",
       "isSkipOtp":true,
-	   "multiFirm": true,
-        "multiFirmData": {
-                "CHALANI":{
-                  "padmBaseUrl":"https://challani.acmepadm.com:8443",
-                  "companyName":"CHALANI MART",
-                  "sProgramKey":"2121",
-                  "isSkipOtp":true
-               },
-               "Fedha":{
-                  "padmBaseUrl":"https://challani.acmepadm.com:8443",
-                  "companyName":"Fedha",
-                  "sProgramKey":"2123",
-                  "isSkipOtp":true
-               }
-        }
+      "multiFirm":true,
+      "multiFirmData":{
+         "CHALANI":{
+            "padmBaseUrl":"https://challani.acmepadm.com:8443",
+            "companyName":"CHALANI MART",
+            "sProgramKey":"2121",
+            "isSkipOtp":true
+         },
+         "Fedha":{
+            "padmBaseUrl":"https://challani.acmepadm.com:8443",
+            "companyName":"Fedha",
+            "sProgramKey":"2123",
+            "isSkipOtp":true
+         }
+      }
    },
    "Fedha":{
       "padmBaseUrl":"https://challani.acmepadm.com:8443",
       "companyName":"Fedha",
       "sProgramKey":"2123",
       "isSkipOtp":true,
-	   "multiFirm": true,
-        "multiFirmData": {
-                 "CHALANI":{
-     			       "padmBaseUrl":"https://challani.acmepadm.com:8443",
-     			       "companyName":"CHALANI MART",
-     			       "sProgramKey":"2121",
-    			       "isSkipOtp":true
-  		         	 },
- 		          "Lille":{
- 		             "padmBaseUrl":"https://challani.acmepadm.com:8443",
-  		             "companyName":"Lille",
-   		          "sProgramKey":"2122",
-   		          "isSkipOtp":true
-   			}
-        }
+      "multiFirm":true,
+      "multiFirmData":{
+         "CHALANI":{
+            "padmBaseUrl":"https://challani.acmepadm.com:8443",
+            "companyName":"CHALANI MART",
+            "sProgramKey":"2121",
+            "isSkipOtp":true
+         },
+         "Lille":{
+            "padmBaseUrl":"https://challani.acmepadm.com:8443",
+            "companyName":"Lille",
+            "sProgramKey":"2122",
+            "isSkipOtp":true
+         }
+      }
    },
-	"JAIAL":{
+   "JAIAL":{
       "padmBaseUrl":"https://jaialankar.acmepadm.com",
-      "companyName":"Jaialankar Jewellers Patna (Bihar)",
+      "companyName":"Jaialankar Jewellers Patna(Bihar)",
       "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
+   "MZFJW":{
+      "padmBaseUrl":"https://jaialankar.acmepadm.com",
+      "companyName":"Jaialankar Jewellers Muzaffarpur",
+      "sProgramKey":"25438546789662977",
       "isSkipOtp":true
    },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
@@ -1451,7 +1457,7 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-    "RAJN2":{
+   "RAJN2":{
       "padmBaseUrl":"http://139.5.238.110:1006",
       "companyName":"Rajwant Jew",
       "sProgramKey":"25438546789662975",
@@ -2045,19 +2051,19 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-    "PKCB1":{
+   "PKCB1":{
       "padmBaseUrl":"http://192.168.0.250:1005",
       "companyName":"Pannalal Kesharchand Bathiya",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-    "RJEA1":{
+   "RJEA1":{
       "padmBaseUrl":"http://192.168.1.10:1005",
       "companyName":"Ravi Jewellers Amalner",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-    "ADGH1":{
+   "ADGH1":{
       "padmBaseUrl":"http://192.168.0.200:1005",
       "companyName":"Aditya Gold Hydrabad",
       "sProgramKey":"25438546789662975",
@@ -2141,113 +2147,112 @@
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
-   "JGD1": {
-    "padmBaseUrl": "http://192.168.0.194:1005",
-    "companyName": "Jagdale jew",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "DUJN1": {
-    "padmBaseUrl": "http://192.168.1.113:1005",
-    "companyName": "Durga jew,Nagpur",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "VNDJ1": {
-    "padmBaseUrl": "http://192.168.1.120:1005",
-    "companyName": "VND Jew,Partur dist Jalana",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "POKH1": {
-    "padmBaseUrl": "http://192.168.3.20:1005",
-    "companyName": "Pokharna",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "MANI1": {
-    "padmBaseUrl": "http://192.168.29.9:1005",
-    "companyName": "Mangal Alankar,nippani",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "MUJS1": {
-    "padmBaseUrl": "http://192.168.1.10:1005",
-    "companyName": "murlidhar A jewellers and sons",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "PRJW1": {
-    "padmBaseUrl": "http://192.168.0.105:1005",
-    "companyName": "Prajyot Jewellers,Wani",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "JAGJ1": {
-    "padmBaseUrl": "http://192.168.1.100:1005",
-    "companyName": "Jagdale jew, jalgaon",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "SRJS1": {
-    "padmBaseUrl": "http://192.168.1.95:1005",
-    "companyName": "shraddha jew satara",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "SRJS2": {
-    "padmBaseUrl": "http://192.168.1.95:1006",
-    "companyName": "shraddha jew satara",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "SDNH1": {
-    "padmBaseUrl": "http://192.168.1.110:1005",
-    "companyName": "Shree jii jewellers, dadar and nagar haveli ",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "SDNH2": {
-    "padmBaseUrl": "http://103.5.104.31:1005",
-    "companyName": "Shree jii jewellers, dadar and nagar haveli ",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "VDKJ1": {
-    "padmBaseUrl": "http://192.168.0.10:1005",
-    "companyName": "Vadnerkar Jewellers",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "PUPJ1": {
-    "padmBaseUrl": "http://192.168.1.104:1005",
-    "companyName": "Pushpraj Jewellers",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "PRAJW": {
-    "padmBaseUrl": "http://192.168.1.36:1005",
-    "companyName": "Pratha Jewellers, kalyan",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-   "KRJBP": {
-    "padmBaseUrl": "http://192.168.1.9:1005",
-    "companyName": "Krishna jewellers,Bopodi,Pune",
-    "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-  },
-    "EDTJ1": {
-    "padmBaseUrl": "https://eleve.acmepadm.com",
-    "companyName": "Eleve Diamonds(TTJ)",
-    "sProgramKey": "25438546789662976",
-    "isSkipOtp": true
-  },
-    "RTJEL": {
-    "padmBaseUrl": "https://rathod.acmepadm.com:8443",
-    "companyName": "Rathod Jewllers",
-    "sProgramKey": "25438546789662976",
-    "isSkipOtp": true
-  }
-   
+   "JGD1":{
+      "padmBaseUrl":"http://192.168.0.194:1005",
+      "companyName":"Jagdale jew",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "DUJN1":{
+      "padmBaseUrl":"http://192.168.1.113:1005",
+      "companyName":"Durga jew,Nagpur",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "VNDJ1":{
+      "padmBaseUrl":"http://192.168.1.120:1005",
+      "companyName":"VND Jew,Partur dist Jalana",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "POKH1":{
+      "padmBaseUrl":"http://192.168.3.20:1005",
+      "companyName":"Pokharna",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "MANI1":{
+      "padmBaseUrl":"http://192.168.29.9:1005",
+      "companyName":"Mangal Alankar,nippani",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "MUJS1":{
+      "padmBaseUrl":"http://192.168.1.10:1005",
+      "companyName":"murlidhar A jewellers and sons",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "PRJW1":{
+      "padmBaseUrl":"http://192.168.0.105:1005",
+      "companyName":"Prajyot Jewellers,Wani",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "JAGJ1":{
+      "padmBaseUrl":"http://192.168.1.100:1005",
+      "companyName":"Jagdale jew, jalgaon",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "SRJS1":{
+      "padmBaseUrl":"http://192.168.1.95:1005",
+      "companyName":"shraddha jew satara",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "SRJS2":{
+      "padmBaseUrl":"http://192.168.1.95:1006",
+      "companyName":"shraddha jew satara",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "SDNH1":{
+      "padmBaseUrl":"http://192.168.1.110:1005",
+      "companyName":"Shree jii jewellers, dadar and nagar haveli ",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "SDNH2":{
+      "padmBaseUrl":"http://103.5.104.31:1005",
+      "companyName":"Shree jii jewellers, dadar and nagar haveli ",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "VDKJ1":{
+      "padmBaseUrl":"http://192.168.0.10:1005",
+      "companyName":"Vadnerkar Jewellers",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "PUPJ1":{
+      "padmBaseUrl":"http://192.168.1.104:1005",
+      "companyName":"Pushpraj Jewellers",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "PRAJW":{
+      "padmBaseUrl":"http://192.168.1.36:1005",
+      "companyName":"Pratha Jewellers, kalyan",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "KRJBP":{
+      "padmBaseUrl":"http://192.168.1.9:1005",
+      "companyName":"Krishna jewellers,Bopodi,Pune",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
+   "EDTJ1":{
+      "padmBaseUrl":"https://eleve.acmepadm.com",
+      "companyName":"Eleve Diamonds(TTJ)",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
+   "RTJEL":{
+      "padmBaseUrl":"https://rathod.acmepadm.com:8443",
+      "companyName":"Rathod Jewllers",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   }
 }
