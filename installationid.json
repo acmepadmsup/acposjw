@@ -1986,7 +1986,7 @@
       "isSkipOtp":true
    },
    "PGJWA":{
-      "padmBaseUrl":"https://uat2app.pngjpl.com:8443",
+      "padmBaseUrl":"https://uatapp1.pngjl.com:9443",
       "companyName":"PNG Jw acme",
       "sProgramKey":"1",
       "isSkipOtp":true
