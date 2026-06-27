@@ -458,13 +458,13 @@
       "isSkipOtp":false
    },
    "DPAJ1":{
-      "padmBaseUrl":"https://dpjpos.acmepadm.com",
+      "padmBaseUrl":"https://dpj.acmepadm.com",
       "companyName":"DP ABHUSHAN LTD",
       "sProgramKey":"1",
       "isSkipOtp":false
    },
    "DPAJ3":{
-      "padmBaseUrl":"https://dpjpos.acmepadm.com",
+      "padmBaseUrl":"https://dpj.acmepadm.com",
       "companyName":"DP ABHUSHAN LTD",
       "sProgramKey":"1",
       "isSkipOtp":false
