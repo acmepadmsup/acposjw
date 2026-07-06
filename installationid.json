@@ -138,6 +138,12 @@
       "sProgramKey":"9096",
       "isSkipOtp":true
    },
+   "54":{
+      "padmBaseUrl":"http://172.16.2.102:8080",
+      "companyName":"regression 46 ",
+      "sProgramKey":"8759631475669216913",
+      "isSkipOtp":true
+   },
    "nac131":{
       "padmBaseUrl":"http://172.16.2.102:8080",
       "companyName":"Nac 131",
