@@ -2278,5 +2278,11 @@
       "companyName":"Rathod Jewllers",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
+   },
+     "RTJEA":{
+      "padmBaseUrl":"https://rathodapp.acmepadm.com:8443",
+      "companyName":"Rathod Jewllers",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
    }
 }
