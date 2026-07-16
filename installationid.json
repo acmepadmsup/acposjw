@@ -1046,9 +1046,9 @@
       "isSkipOtp":true
    },
    "SSDJGH":{
-      "padmBaseUrl":"http://192.168.1.124:8080",
+      "padmBaseUrl":"https://daddi-jewellers.acmepadm.com",
       "companyName":"SHUBH SANGAM DADDI JEWELLERS, GADHINGLAJ",
-      "sProgramKey":"1",
+      "sProgramKey":"2",
       "isSkipOtp":true
    },
    "TLSJ1":{
