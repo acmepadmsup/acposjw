@@ -1204,6 +1204,12 @@
       "sProgramKey":"25438546789662977",
       "isSkipOtp":true
    },
+   "SUNJP":{
+      "padmBaseUrl":"http://192.168.1.109:8080",
+      "companyName":"Sunil Jewel Palace",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
