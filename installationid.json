@@ -902,7 +902,7 @@
       "isSkipOtp":true
    },
    "DPSR1":{
-      "padmBaseUrl":"https://dps.acmepadm.com:8443",
+      "padmBaseUrl":"https://dpsilver.acmepadm.com:8443",
       "companyName":"Dp Silver Ratlam",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
