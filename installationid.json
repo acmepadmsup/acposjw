@@ -1222,6 +1222,24 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+   "EDTJ1":{
+      "padmBaseUrl":"https://eleve.acmepadm.com",
+      "companyName":"Eleve Diamonds(TTJ)",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
+   "RTJEL":{
+      "padmBaseUrl":"https://rathod.acmepadm.com:8443",
+      "companyName":"Rathod Jewllers",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
+     "RTJEA":{
+      "padmBaseUrl":"https://rathodapp.acmepadm.com:8443",
+      "companyName":"Rathod Jewllers",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
+   },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
       "padmBaseUrl":"http://192.168.1.24:1005",
@@ -2289,24 +2307,6 @@
       "padmBaseUrl":"http://192.168.1.9:1005",
       "companyName":"Krishna jewellers,Bopodi,Pune",
       "sProgramKey":"25438546789662975",
-      "isSkipOtp":true
-   },
-   "EDTJ1":{
-      "padmBaseUrl":"https://eleve.acmepadm.com",
-      "companyName":"Eleve Diamonds(TTJ)",
-      "sProgramKey":"25438546789662976",
-      "isSkipOtp":true
-   },
-   "RTJEL":{
-      "padmBaseUrl":"https://rathod.acmepadm.com:8443",
-      "companyName":"Rathod Jewllers",
-      "sProgramKey":"25438546789662976",
-      "isSkipOtp":true
-   },
-     "RTJEA":{
-      "padmBaseUrl":"https://rathodapp.acmepadm.com:8443",
-      "companyName":"Rathod Jewllers",
-      "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    }
 }
