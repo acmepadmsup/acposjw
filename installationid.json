@@ -1239,6 +1239,12 @@
       "companyName":"Rathod Jewllers",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
+   },     
+   "RYGJW":{
+      "padmBaseUrl":"https://riyaga.acmepadm.com:8443",
+      "companyName":"RIYAGA JEWELS PVT LTD",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
    },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
