@@ -1275,6 +1275,12 @@
       "companyName":"Zaveri Jewllers",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
+   },   
+   "KHDN1":{
+      "padmBaseUrl":"https://khodniya1.acmepadm.com:8443",
+      "companyName":"KHODNIYA JEWELLERS",
+      "sProgramKey":"25438546789662976",
+      "isSkipOtp":true
    },
    "Infinity Pos Urls":"Add Infinity Pos Urls Here....",
    "OMRSJ1":{
