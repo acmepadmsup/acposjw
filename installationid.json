@@ -637,6 +637,12 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
+   "RDJW2":{
+      "padmBaseUrl":"https://rokde.acmepadm.com:8443",
+      "companyName":"Rokde Jewellers Test",
+      "sProgramKey":"25438546789662978",
+      "isSkipOtp":true
+   },
    "LLJW2":{
       "padmBaseUrl":"http://122.166.45.88:8080",
       "companyName":"Lalita Jewellers",
