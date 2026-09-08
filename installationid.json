@@ -674,7 +674,7 @@
       "isSkipOtp":true
    },
    "TDJW1":{
-      "padmBaseUrl":"http://115.245.232.18:8080",
+      "padmBaseUrl":"http://103.199.162.249:8080",
       "companyName":"T.T. DEVASSY JEWELLERY",
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
