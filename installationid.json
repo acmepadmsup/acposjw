@@ -356,7 +356,7 @@
       "isSkipOtp":false
    },
    "S65YW":{
-      "padmBaseUrl":"https://narayandas.acmepadm.com:8443",
+      "padmBaseUrl":"https://ndj.acmepadm.com",
       "companyName":"NARAYANDAS",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
