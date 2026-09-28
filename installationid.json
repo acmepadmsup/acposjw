@@ -17,18 +17,18 @@
       "companyName":"Video Testing",
       "sProgramKey":"8759631475669216878",
       "isSkipOtp":true,
-      "multiFirm":false,
+      "multiFirm":true,
       "multiFirmData":{
          "8":{
             "padmBaseUrl":"http://172.16.2.102:8080",
-            "companyName":"Challani Test 63",
-            "sProgramKey":"190526",
+            "companyName":"Only For Pos",
+            "sProgramKey":"25438546789662976",
             "isSkipOtp":true
          },
          "45":{
             "padmBaseUrl":"http://172.16.2.102:8080",
-            "companyName":"Regression 45",
-            "sProgramKey":"8759631475669216917",
+            "companyName":"Regression 46",
+            "sProgramKey":"8759631475669216913",
             "isSkipOtp":true
          }
       }
