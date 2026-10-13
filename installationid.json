@@ -458,7 +458,7 @@
       "isSkipOtp":true
    },
    "PNGS":{
-      "padmBaseUrl":"https://pngspadm.com:8670",
+      "padmBaseUrl":"https://pngspadm.com:8666",
       "companyName":"P.N.GADGIL & SONS LTD.",
       "sProgramKey":"1",
       "isSkipOtp":false
