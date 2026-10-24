@@ -308,7 +308,7 @@
       "isSkipOtp":true
    },
    "JBSF2":{
-      "padmBaseUrl":"http://192.168.4.100:8080",
+      "padmBaseUrl":"http://192.168.30.105:8080",
       "companyName":"J.B.Saraf",
       "sProgramKey":"1",
       "isSkipOtp":true
