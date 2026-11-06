@@ -572,9 +572,15 @@
       "isSkipOtp":true
    },
    "VDR76":{
-      "padmBaseUrl":"https://vdr.acmepadm.com:8445",
+      "padmBaseUrl":"https://vdr.acmepadm.com:8446",
       "companyName":"Vasundhara Diamond,Hyderabad",
-      "sProgramKey":"25583484219162631",
+      "sProgramKey":"20",
+      "isSkipOtp":true
+   },
+   "VDR20":{
+      "padmBaseUrl":"http://192.168.10.106:8080",
+      "companyName":"Vasundhara Diamond,Hyderabad",
+      "sProgramKey":"20",
       "isSkipOtp":true
    },
    "DEJ76":{
